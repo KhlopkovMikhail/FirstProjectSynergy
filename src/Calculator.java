@@ -19,6 +19,9 @@ public class Calculator {
         if (operator == '/') {
             System.out.println(x / y);
         }
+        if (operator == '^') { // Возведение в степень ( 2 в третьей степени (2 * 2 * 2)
+            System.out.println(Math.pow(x , y));
+        }
 
     }
 }
