@@ -32,7 +32,7 @@ public class RandomWord2 {
             if (randomBigFloorO == 8) System.out.print(o8);
             if (randomBigFloorO == 9) System.out.print(o9);
             if (randomBigFloorO == 10) System.out.print(o10);
-            x++; 
+            x++;
         }
 
     }
