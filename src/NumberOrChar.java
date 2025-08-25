@@ -1,3 +1,4 @@
+// Программа определяющия числом или буквой является введённый символ
 import java.util.Scanner;
 
 public class NumberOrChar {
